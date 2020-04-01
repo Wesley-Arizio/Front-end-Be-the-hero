@@ -7,19 +7,17 @@ The purpose of this application is to connect people who want to help NGO's with
 
 ## Start the project
 
+Clone or dowload this repository.
+API repository: https://github.com/WesleyGolembiewski/Be-the-hero-API.git.
 
-    Clone or dowload this repository.
-    API repository: https://github.com/WesleyGolembiewski/Be-the-hero-API.git.
-
-    you need to start the API first.
+you need to start the API first.
 
 
-    After that, you need to install all the depencies for that project
+After that, you need to install all the depencies for that project
 
     `npm install`
 
-
-    To run this project
+To run this project
 
     `npm start`
 
