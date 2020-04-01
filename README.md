@@ -5,7 +5,9 @@ The purpose of this application is to connect people who want to help NGO's with
 
 
 
-### Start the project
+## Start the project
+
+
     Clone or dowload this repository.
     API repository: https://github.com/WesleyGolembiewski/Be-the-hero-API.git.
 
